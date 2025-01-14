@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+  padding-top: 20%;
+}
+
+.h1 {
+  padding: 1rem;
+  background-color: brown;
+  color: blue;
+  font-weight: 700;
+  justify-content: center;
+  text-decoration: none;
+}
